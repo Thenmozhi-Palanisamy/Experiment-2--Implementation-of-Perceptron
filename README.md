@@ -115,3 +115,4 @@ plt.show()
 ![nn 1](https://user-images.githubusercontent.com/95198708/232313091-a1d28c64-61d7-4ab6-bfe8-91b195acf687.png)
 
 ## Results:
+Thus a perceptron for classification is implemented using python
